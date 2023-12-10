@@ -14,7 +14,7 @@ html, body {
 }
 
 #headertext{
-    font-size: 64px; /* Увеличение размера текста */
+    font-size: 60px; /* Увеличение размера текста */
     font-family: "URW Chancery L", cursive;
     /*color: #ff0000; /* Назначение цвета текста (красный) */
     text-shadow: 2px 2px 4px #000000; /* Добавление тени на текст */
